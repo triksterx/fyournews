@@ -1,0 +1,5 @@
+! name: F Your News
+! description: Rerank results to remove news sites that limit monthly viewed articles.
+! public: true
+! author: triksterx
+$discard,site=nytimes.com
